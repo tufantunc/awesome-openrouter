@@ -9,6 +9,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
+- [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
 - [Chorus](#chorus)
@@ -47,6 +48,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
 
 [Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [Autohand Code CLI](https://www.autohand.ai/cli)
+
+<img src="./apps/autohand/logo.png" alt="Autohand Code CLI logo" width="64" height="64">
+
+The world fastest open code cli agent
+
+`coding` `chat` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/autohandai/code-cli)
+
+[Documentation](https://autohand.ai/docs/integrations/openrouter)
 
 ---
 
