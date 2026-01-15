@@ -24,6 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [SillyTavern](#sillytavern)
 - [Stirrup](#stirrup)
 - [StirrupJS](#stirrupjs)
+- [Warden](#warden)
 
 ## Apps
 
@@ -228,6 +229,18 @@ A lightweight framework for building agents in TypeScript/JavaScript. Bring your
 `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/ArtificialAnalysis/StirrupJS)
 
 [Documentation](https://stirrupjs.artificialanalysis.ai/)
+
+---
+
+### [Warden](https://karatsidhu.gumroad.com/l/warden)
+
+<img src="./apps/warden/logo.png" alt="Warden logo" width="64" height="64">
+
+A Native Swift MacOS app that that supports multiple AI providers and models using your own API keys.
+
+`chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/SidhuK/WardenApp)
+
+[Documentation](https://github.com/SidhuK/WardenApp/blob/main/Setup.MD)
 
 ---
 
