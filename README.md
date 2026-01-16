@@ -26,6 +26,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
+- [analystOS](#analystos)
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
@@ -69,6 +70,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
 
 [Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [analystOS](https://github.com/sheeki03/analystOS)
+
+<img src="./apps/analystos/logo.png" alt="analystOS logo" width="64" height="64">
+
+Web UI for AI-powered research + optional Notion automation. Upload docs, scrape URLs, chat with research via RAG. Connect Notion for zero-touch automated reports. 50+ OpenRouter models.
+
+`research` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/sheeki03/analystOS)
+
+[Documentation](https://github.com/sheeki03/analystOS#readme)
 
 ---
 
