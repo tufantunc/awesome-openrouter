@@ -201,6 +201,18 @@
     "dateAdded": "2026-01-14"
   },
   {
+    "slug": "postqode",
+    "name": "PostQode",
+    "description": "AI-powered SDLC platform with specialized agents for API, Web, and Mobile testing, plus a generic Agent for development.",
+    "url": "https://postqode.ai",
+    "docs": "https://docs.postqode.ai/settings/model-configuration",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-21"
+  },
+  {
     "slug": "quests",
     "name": "Quests",
     "description": "The open-source app builder.",

@@ -40,6 +40,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [Ottex](#ottex)
+- [PostQode](#postqode)
 - [Quests](#quests)
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
@@ -240,6 +241,18 @@ WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack
 `productivity`
 
 [Documentation](https://ottex.ai/docs)
+
+---
+
+### [PostQode](https://postqode.ai)
+
+<img src="./apps/postqode/logo.png" alt="PostQode logo" width="64" height="64">
+
+AI-powered SDLC platform with specialized agents for API, Web, and Mobile testing, plus a generic Agent for development.
+
+`productivity`
+
+[Documentation](https://docs.postqode.ai/settings/model-configuration)
 
 ---
 
