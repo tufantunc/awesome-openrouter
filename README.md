@@ -34,14 +34,20 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Chatbox](#chatbox)
 - [ChatLima](#chatlima)
 - [Chorus](#chorus)
+- [Cline](#cline)
+- [Cloudflare AI Gateway](#cloudflare-ai-gateway)
+- [fal](#fal)
 - [GitHub Copilot](#github-copilot)
+- [Helicone](#helicone)
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
+- [LlamaIndex](#llamaindex)
 - [Mastra](#mastra)
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [OpenClaw (Moltbot)](#openclaw-moltbot)
 - [Ottex](#ottex)
+- [PostHog](#posthog)
 - [PostQode](#postqode)
 - [Quests](#quests)
 - [Roo Code](#roo-code)
@@ -173,6 +179,42 @@ A macOS desktop app that provides unified access to multiple AI models and servi
 
 ---
 
+### [Cline](https://cline.bot)
+
+<img src="./apps/cline/logo.png" alt="Cline logo" width="64" height="64">
+
+Autonomous coding agent right in your IDE.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/cline/cline)
+
+[Documentation](https://github.com/cline/cline?tab=readme-ov-file#use-any-api-and-model)
+
+---
+
+### [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)
+
+<img src="./apps/cloudflare/logo.png" alt="Cloudflare AI Gateway logo" width="64" height="64">
+
+Monitor, control, and optimize your AI applications.
+
+`productivity` `research`
+
+[Documentation](https://developers.cloudflare.com/ai-gateway/providers/openrouter/)
+
+---
+
+### [fal](https://fal.ai)
+
+<img src="./apps/fal/logo.png" alt="fal logo" width="64" height="64">
+
+Generative Media Platform.
+
+`creative` `productivity`
+
+[Documentation](https://fal.ai/models/fal-ai/any-llm)
+
+---
+
 ### [GitHub Copilot](https://github.com/features/copilot)
 
 <img src="./apps/github-copilot/logo.png" alt="GitHub Copilot logo" width="64" height="64">
@@ -182,6 +224,18 @@ Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode wi
 `coding`
 
 [Documentation](https://code.visualstudio.com/docs/copilot/language-models#_bring-your-own-language-model-key)
+
+---
+
+### [Helicone](https://www.helicone.ai)
+
+<img src="./apps/helicone/logo.png" alt="Helicone logo" width="64" height="64">
+
+Observability and Evaluation. Bring your OpenRouter key to supercharge your inference.
+
+`productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Helicone/helicone)
+
+[Documentation](https://docs.helicone.ai/getting-started/integration-method/openrouter#openrouter-integration)
 
 ---
 
@@ -206,6 +260,18 @@ An open-source chat application for all your AI conversations, compatible with a
 `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/danny-avila/LibreChat)
 
 [Documentation](https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/openrouter)
+
+---
+
+### [LlamaIndex](https://www.llamaindex.ai)
+
+<img src="./apps/llamaindex/logo.png" alt="LlamaIndex logo" width="64" height="64">
+
+Framework for building knowledge assistants using LLMs connected to your enterprise data.
+
+`coding` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/run-llama/llama_index)
+
+[Documentation](https://docs.llamaindex.ai/en/stable/api_reference/llms/openrouter/)
 
 ---
 
@@ -266,6 +332,18 @@ WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack
 `productivity`
 
 [Documentation](https://ottex.ai/docs)
+
+---
+
+### [PostHog](https://posthog.com)
+
+<img src="./apps/posthog/logo.png" alt="PostHog logo" width="64" height="64">
+
+Dev tools that help product engineers build successful products.
+
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/PostHog/posthog)
+
+[Documentation](https://posthog.com/tutorials/openrouter-observability)
 
 ---
 

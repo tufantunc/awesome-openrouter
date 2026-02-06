@@ -129,6 +129,44 @@
     "dateAdded": "2025-01-13"
   },
   {
+    "slug": "cline",
+    "name": "Cline",
+    "description": "Autonomous coding agent right in your IDE.",
+    "url": "https://cline.bot",
+    "docs": "https://github.com/cline/cline?tab=readme-ov-file#use-any-api-and-model",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/cline/cline",
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare AI Gateway",
+    "description": "Monitor, control, and optimize your AI applications.",
+    "url": "https://developers.cloudflare.com/ai-gateway/",
+    "docs": "https://developers.cloudflare.com/ai-gateway/providers/openrouter/",
+    "tags": [
+      "productivity",
+      "research"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-02-04"
+  },
+  {
+    "slug": "fal",
+    "name": "fal",
+    "description": "Generative Media Platform.",
+    "url": "https://fal.ai",
+    "docs": "https://fal.ai/models/fal-ai/any-llm",
+    "tags": [
+      "creative",
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-02-04"
+  },
+  {
     "slug": "github-copilot",
     "name": "GitHub Copilot",
     "description": "Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model.",
@@ -139,6 +177,19 @@
     ],
     "openSource": null,
     "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "helicone",
+    "name": "Helicone",
+    "description": "Observability and Evaluation. Bring your OpenRouter key to supercharge your inference.",
+    "url": "https://www.helicone.ai",
+    "docs": "https://docs.helicone.ai/getting-started/integration-method/openrouter#openrouter-integration",
+    "tags": [
+      "productivity",
+      "research"
+    ],
+    "openSource": "https://github.com/Helicone/helicone",
+    "dateAdded": "2026-02-04"
   },
   {
     "slug": "kilocode",
@@ -163,6 +214,19 @@
     ],
     "openSource": "https://github.com/danny-avila/LibreChat",
     "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "description": "Framework for building knowledge assistants using LLMs connected to your enterprise data.",
+    "url": "https://www.llamaindex.ai",
+    "docs": "https://docs.llamaindex.ai/en/stable/api_reference/llms/openrouter/",
+    "tags": [
+      "coding",
+      "research"
+    ],
+    "openSource": "https://github.com/run-llama/llama_index",
+    "dateAdded": "2026-02-04"
   },
   {
     "slug": "mastra",
@@ -225,6 +289,18 @@
     ],
     "openSource": null,
     "dateAdded": "2026-01-14"
+  },
+  {
+    "slug": "posthog",
+    "name": "PostHog",
+    "description": "Dev tools that help product engineers build successful products.",
+    "url": "https://posthog.com",
+    "docs": "https://posthog.com/tutorials/openrouter-observability",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/PostHog/posthog",
+    "dateAdded": "2026-02-04"
   },
   {
     "slug": "postqode",
