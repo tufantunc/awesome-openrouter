@@ -1,0 +1,9 @@
+name: "Hi Shell"
+description: "An intelligent terminal assistant that translates your natural language descriptions into executable bash commands."
+url: "https://hishell.tufantunc.com/"
+docs: "https://github.com/tufantunc/hi-shell?tab=readme-ov-file#-features"  # Link to OpenRouter setup instructions
+tags:
+  - productivity  # Choose from: chat, coding, productivity, creative, research, other
+  - coding
+open_source: "https://github.com/tufantunc/hi-shell"  # Optional: remove if not open source
+date_added: "2026-02-08"  # Use today's date in YYYY-MM-DD format
